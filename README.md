@@ -7,6 +7,9 @@
   <a href="https://afdian.net/@beanflame"><img src="https://img.shields.io/badge/Afdian-Donate-936BE5.svg?logo=Afdian" alt="beanflame on Afdian"></a>
   <a href="https://www.patreon.com/beanflame"><img src="https://img.shields.io/badge/patreon-Donate-FF424D.svg?logo=patreon" alt="beanflame on Patreon"></a>
   
+  [English] (README_en-UK.md)|
+  [简体中文] (README_zh-CN.md) |
+
 </div>
 
 XTinder 是 2022年1月1日开始，一门免费、开源、轻量级、跨平台、代码编辑器，内置 Vala 和 GTK
