@@ -10,6 +10,7 @@
 [English](README_en-US.md) • [简体中文](README_zh-CN.md)
 
 </div>
+
 XTinder 是2022年开始，一门免费、开源、轻量级、跨平台、代码编辑器，内置 Vala 和 GTK，由 SpaceLongan 主导开发。
 
 打开文件速度快，并且稳定性良好，快速编写代码。
