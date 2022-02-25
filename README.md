@@ -12,7 +12,7 @@
 </div>
 
 XTinder 是 2022年1月1日开始，一门免费、开源、轻量级、跨平台、代码编辑器，内置 Vala 和 GTK
-由 Space Longan 主导开发， XTinder 现代界面方便化，XTinder 启动得快一个又快又稳定， 但是XTinder更加容易，可以快速编写和维护。
+由 Space Longan 主导开发， XTinder 现代界面方便化，XTinder 启动速度快，并且稳定性良好， 但是XTinder更加容易，可以快速编写和维护。
 在所有电脑平台（OSX、Windows 和 Linux）支持运行跑出来了
 
 
